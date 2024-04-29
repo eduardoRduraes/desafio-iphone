@@ -1,3 +1,5 @@
+package intercace;
+
 public interface ReprodutorMusical {
 
     void tocar();
